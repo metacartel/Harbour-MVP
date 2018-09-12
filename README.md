@@ -2,7 +2,7 @@
 
 [EIP-1077](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1077.md) is a very good guideline for how to format your meta transactions, but we are finding that different organizations have different use-cases. We would like to start executing transactions for each other but we need a centralized place to facilitate sharing our current implementations.
 
-Let's all post our meta transaction formats here in a digestible format:  
+Let's all post our meta transaction formats here in a digestible format. The TL;DR here is to communicate how someone else could execute your meta transaction for you. 
 
 ### Format 
 ```
