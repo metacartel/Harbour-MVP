@@ -27,6 +27,6 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 
 ### Example Implementation Links
 
-[tenzorum.org](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
+[tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
 
-[TokenSubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com) 
+[tokenSubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
