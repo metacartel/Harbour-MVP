@@ -21,12 +21,14 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 ### Tx
 ```
 {
-  Here is my (pseudo?)code for getting transactions on chain
+  Here is my (pseudo?)code for putting transactions on chain
 }
 ```
 
-### Example Implementation Links
+### Implementations
 
 [tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
 
 [tokenSubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
+
+
