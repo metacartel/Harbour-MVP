@@ -24,3 +24,7 @@ Let's all post our meta transaction formats here in a digestible format:
   Here is my (pseudo?)code for getting transactions on chain
 }
 ```
+
+### Example Implementation Links
+
+[TokenSubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com) 
