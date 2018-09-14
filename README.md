@@ -35,7 +35,9 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 
 
 
-### Important Problems to Solve
+### Important problems to solve
 
 [relay collisions](https://github.com/austintgriffith/meta-transaction-format-share/issues/3)
+
+[dyanmic gas rewards](https://github.com/austintgriffith/meta-transaction-format-share/issues/4)
 
