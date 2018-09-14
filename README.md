@@ -27,8 +27,10 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 
 ### Implementations
 
+[uPort](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/uport.org.md)
+
 [tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
 
-[tokenSubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
+[tokenubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
 
 
