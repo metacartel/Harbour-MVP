@@ -4,7 +4,23 @@
 
 Let's all post our meta transaction formats here in a digestible format. The TL;DR here is to communicate how someone else could execute your meta transaction for you. 
 
-### Format 
+## Implementations
+
+[uport](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/uport.org.md)
+
+[tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
+
+[tokenubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
+
+
+## Important problems to solve
+
+[relay collisions](https://github.com/austintgriffith/meta-transaction-format-share/issues/3)
+
+[dyanmic gas rewards](https://github.com/austintgriffith/meta-transaction-format-share/issues/4)
+
+
+## Format 
 ```
 {
   This is the format of my meta transaction 
@@ -25,19 +41,4 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 }
 ```
 
-### Implementations
-
-[uport](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/uport.org.md)
-
-[tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
-
-[tokenubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
-
-
-
-### Important problems to solve
-
-[relay collisions](https://github.com/austintgriffith/meta-transaction-format-share/issues/3)
-
-[dyanmic gas rewards](https://github.com/austintgriffith/meta-transaction-format-share/issues/4)
 
