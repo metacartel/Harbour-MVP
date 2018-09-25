@@ -6,7 +6,7 @@ Let's all post our meta transaction formats here in a digestible format. The TL;
 
 We are having a meeting soon with the agenda of the meeting here (27th 5PM CEST Sept): https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?edit
 
-For now, join us on telegram for the discussion: https://t.me/joinchat/HcTaOxJH6OzCna2UWJZo9A
+For now, join us on telegram for the discussion -> Found in the agenda above ^^^
 
 
 ## Implementations
