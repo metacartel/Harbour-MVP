@@ -60,4 +60,6 @@ There is currently no endpoint to pull the transactions from.
     )
 ```
 
-Please check https://github.com/gnosis/safe-contracts for further details and context.
+Please check the following links for further context and details:
+* https://github.com/gnosis/safe-contracts
+* https://gnosis-safe.readthedocs.io/en/latest/
