@@ -15,7 +15,9 @@ For now, join us on telegram for the discussion: https://t.me/joinchat/HcTaOxJH6
 
 [tenzorum](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tenzorum.org.md)
 
-[tokenubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
+[tokensubscription](https://github.com/austintgriffith/meta-transaction-format-share/blob/master/tokensubscription.com.md) 
+
+[Gnosis Safe](safe.gnosis.io.md) 
 
 
 ## Important problems to solve
