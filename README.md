@@ -15,7 +15,7 @@
 
 This is the recommended structure for uploading your video demo of what you have and the recommended contexts of what you add to the video documentation.
 
-[Example demo submission](https://github.com/Meta-tx/Harbour-MVP/tree/master/DEMOS/demo-example.md)
+[Example demo submission](https://github.com/Meta-tx/Harbour-MVP/blob/master/DEMOS/Demo-example.md)
 
 Once you have created your demo document, please PR it into this repo within the [DEMOs folder](https://github.com/Meta-tx/Harbour-MVP/tree/master/DEMOS). When projects start posting their demo pages, we will have EthMagicians thread where you can post them & discuss.
 
