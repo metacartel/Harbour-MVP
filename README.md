@@ -2,7 +2,7 @@
 
 **Goal:**
 
-- Create a MVP for a decentralised p2p network of service node servers that recieves and executes meta-txs
+- Create a MVP for a decentralised p2p network of **TRUSTED** service node servers that recieves and executes meta-txs
 - For any documentation, please add it to our [wiki](https://github.com/Meta-tx/Harbour-MVP/wiki)
 
 **Project coordination**
