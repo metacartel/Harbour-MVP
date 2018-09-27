@@ -4,6 +4,10 @@
 
 - Create a MVP for a decentralised p2p network of service node servers that recieves and executes meta-txs
 
+**Project coordination**
+
+- To learn, improve or work on about how we manage ourselves, head out to our [PM repository](https://github.com/Meta-tx/PM)
+
 **Roadmap**
 
 | MILESTONE          | What needs to be done by this point                                                                                             | Summary Notes                                                                                                                            | Date of Milestone |   |
