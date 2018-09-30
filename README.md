@@ -19,7 +19,7 @@ This is the recommended structure for uploading your video demo of what you have
 
 Once you have created your demo document, please PR it into this repo within the [DEMOs folder](https://github.com/Meta-tx/Harbour-MVP/tree/master/DEMOS). When projects start posting their demo pages, we will have EthMagicians thread where you can post them & discuss.
 
-If you have no clue what this means, please watch [our first community call.](https://www.youtube.com/watch?v=yO-wBF6zubI)
+If you have no clue what this means, please watch [our first community call.](https://www.youtube.com/watch?v=tKOtWPopl8Q)
 
 **Roadmap**
 
