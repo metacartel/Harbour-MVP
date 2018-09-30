@@ -1,6 +1,6 @@
 # DEMO: Bitconnectors_imaginary_team
 
-// This template is subject to change as we figure out what else we need.
+// Show us your meta-tx format, message signing, functions, calls, contract execution interfaces
 
 **Project Name**: 
 
