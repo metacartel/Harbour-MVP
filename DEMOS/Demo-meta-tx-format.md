@@ -19,6 +19,7 @@ For now, join us on telegram for the discussion -> Found in the agenda above ^^^
 
 [Gnosis Safe](safe.gnosis.io.md) 
 
+[Argent Wallet](https://github.com/Meta-tx/Harbour-MVP/blob/master/DEMOS/argent.im.md)
 
 ## Important problems to solve
 
