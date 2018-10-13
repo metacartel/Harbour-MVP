@@ -1,4 +1,9 @@
+## If you are new here go to the wiki -> [Here](https://github.com/Meta-tx/Harbour-MVP/wiki)
+
+***
+
 # Harbour-MVP
+
 
 **Goal:**
 
