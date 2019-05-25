@@ -1,4 +1,4 @@
-## If you are new here go to the wiki -> [Here](https://github.com/Meta-tx/Harbour-MVP/wiki)
+## We solved this problem: [1800 Gas Station Network](https://medium.com/tabookey/1-800-ethereum-gas-stations-network-for-toll-free-transactions-4bbfc03a0a56)
 
 ***
 
